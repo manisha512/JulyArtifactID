@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Grouping2Suite">
+  <test thread-count="5" name="Grouping2Test">
+    <classes>
+      <class name="testngGrouping.Group2"/>
+    </classes>
+  </test> <!-- Grouping2Test -->
+</suite> <!-- Grouping2Suite -->
